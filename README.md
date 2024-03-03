@@ -26,6 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lathini99&show_icons=true&locale=en" alt="lathini99" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lathini99&" alt="jaiswaladi246" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lathini99&" alt="lathini99" /></p>
