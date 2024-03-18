@@ -1,11 +1,17 @@
 <h1 align="center">Hey Everyone 👋, I'm Lathini Navoda</h1>
 <h3 align="center">"Engineering Undergraduate | University of Ruhuna 🎓 | Passionate about Embedded Systems, Machine Learning, Networking, and Data Science 💻 | Let's Explore the World of Technology Together!"</h3>
+
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" ><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=83F757&random=false&width=435&lines=Engineering+Undergraduate;Frontend+Developer;Project+Manager;UI/UX+Designer" alt="Typing SVG" /></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathini99&label=Profile%20views&color=0e75b6&style=flat" alt="lathini99" /> </p>
 
 
-- 🌱 I’m currently learning **Embedded System, Machine Learning, Networking and Data Science**
+- 🌱 I’m currently learning **Embedded System, Machine Learning, Networking and  Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lathini99](https://github.com/Lathini99)
   
