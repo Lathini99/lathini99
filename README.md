@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Lathini Navoda</h1>
-<h3 align="center">"Engineering Undergraduate | University of Ruhuna 🎓 | Passionate about Embedded Systems, Machine Learning, Networking, and Data Science 💻 | Let's Explore the World of Technology Together!"</h3>
+<h3 align="center">"Engineering Fresh Graduate | University of Ruhuna 🎓 | Passionate about Software Development, Telecommunication,  Embedded Systems, Machine Learning, Networking, and Data Science 💻 | Let's Explore the World of Technology Together!"</h3>
 
 
 <p>
@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathini99&label=Profile%20views&color=0e75b6&style=flat" alt="lathini99" /> </p>
 
 
-- 🌱 I’m currently learning **Embedded System, Machine Learning, Networking and  Data Science**
+- 🌱 I’m currently learning **Software Development, Embedded System, Machine Learning, Networking and  Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lathini99](https://github.com/Lathini99)
   
